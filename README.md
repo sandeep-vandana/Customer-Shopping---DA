@@ -1,5 +1,5 @@
 # Customer_Shopping_Behaviour_Analysis
-##Project Objective
+## Project Objective
 The main objective of this project was to transform customer shopping data into meaningful business insights that can help businesses understand who their customers are, how they purchase, what products they prefer, and which factors influence their spending behaviour.
 
 ##Key Areas Analyzed:
